@@ -1,0 +1,9 @@
+div#doboz{
+	width:200px;
+	height:200px;
+	background-color:#888;
+	/*CSS3*/
+	
+	transform:rotate(135deg);
+	webkit-transform:rotate(135deg);
+}

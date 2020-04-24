@@ -1,0 +1,12 @@
+div#doboz{
+	width:250px;
+	height:250px;
+	background-color:#888;
+	color:#fff;
+	padding:20px;
+	background-image:url(../xy.jpg);
+	background-repeat:no-repeat;
+	
+	/* CSS3*/
+	background-origin:padding-box;
+}

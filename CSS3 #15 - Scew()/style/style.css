@@ -1,0 +1,9 @@
+div#doboz{
+	width:200px;
+	height:200px;
+	background-color:#888;
+	/*CSS3*/
+	
+	transform:skew(30deg,20deg);
+	webkit-transform:skew(30deg,20deg);
+}

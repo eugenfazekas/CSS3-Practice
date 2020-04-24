@@ -1,0 +1,7 @@
+body{
+	background:url(../xy.jpg);
+	background-repeat:no-repeat;
+	
+	/* CSS3*/
+	background-size:50% 50%;
+}

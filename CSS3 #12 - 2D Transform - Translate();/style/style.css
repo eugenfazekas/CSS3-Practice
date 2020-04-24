@@ -1,0 +1,9 @@
+div#doboz{
+	width:200px;
+	height:200px;
+	background-color:#888;
+	/*CSS3*/
+	
+	transform:translate(50px,100px);
+	webkit-transform:translate(50px,100px);
+}

@@ -1,0 +1,15 @@
+ 
+div#div{
+	width:200px;
+	height:200px;
+	background-color:#888888;
+	 
+	/*CSS3*/
+	
+	box-shadow:2px 3px 5px #000;
+	-webkit-box-shadow:2px 3px 5px #000; 
+	
+	
+
+}
+	

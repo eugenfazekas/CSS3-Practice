@@ -1,0 +1,19 @@
+
+	
+:root {
+ --b: #03a9f4;
+ --h: 200px;
+ --w: 200px;
+}
+
+div {
+  height:var(--h);
+  width:var(--w);
+  background:var(--b);
+}
+
+div:hover {
+  --b: #9c27b0;
+   --h:400px;
+   --w:400px;
+}
